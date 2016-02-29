@@ -1,4 +1,4 @@
-FROM python 
+FROM clemenshemmerling/rpi-python2.7-slim 
 
 MAINTAINER  clemenshemmerling@gmail.com 
 
